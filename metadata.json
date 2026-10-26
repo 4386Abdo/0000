@@ -1,0 +1,8 @@
+{
+  "name": "مول الشناوي للأجهزة الكهربائية والمنزلية",
+  "description": "الموقع الرسمي لمول الشناوي للأجهزة الكهربائية والمنزلية – فرع السنطة، محافظة الغربية. مفتوح على مدار الساعة 24/7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

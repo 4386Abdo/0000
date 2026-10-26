@@ -1,0 +1,28 @@
+# Set default behavior to automatically normalize line endings
+* text=auto eol=lf
+
+# Text files
+*.html text
+*.css text
+*.js text
+*.ts text
+*.tsx text
+*.jsx text
+*.json text
+*.md text
+*.svg text
+*.yml text
+*.yaml text
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary
+*.mp4 binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
